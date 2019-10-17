@@ -1,0 +1,130 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "email": "john@doe@gmail.com",
+      "password": "password"
+    },
+    {
+      "id": "2",
+      "name": "Tom Smith",
+      "email": "tom@smith@gmail.com",
+      "password": "password"
+    },
+    {
+      "name": "hsdahdjshdsj",
+      "email": "dksjdsjkd@wp.pl",
+      "password": "dsjdsjkds",
+      "id": "02a24dfe-b52b-474b-a4db-3d66ec85928b"
+    },
+    {
+      "name": "hsdahdjshdsj",
+      "email": "dksjdsjkd@wp.pl",
+      "password": "dsjdsjkds",
+      "id": "07464be1-e0aa-457a-b962-df37c6a0a8e5"
+    },
+    {
+      "name": "hsdahdjshdsj",
+      "email": "dksjdsjkd@wp.pl",
+      "password": "dsjdsjkds",
+      "id": "61e4e5bc-6f88-4358-9b96-4ff47e7ce702"
+    },
+    {
+      "name": "hsdahdjshdsj",
+      "email": "dksjdsjkd@wp.pl",
+      "password": "dsjdsjkds",
+      "id": "bf851611-146c-4eb6-bcc1-d3f32e0fae8c"
+    },
+    {
+      "name": "hsdahdjshdsj",
+      "email": "dksjdsjkd@wp.pl",
+      "password": "dsjdsjkds",
+      "id": "584bb009-e217-406e-8cba-581172da806a"
+    },
+    {
+      "name": "hsdahdjshdsj",
+      "email": "dksjdsjkd@wp.pl",
+      "password": "dsjdsjkds",
+      "id": "3dcf420c-63b6-4291-8147-dea996e24c9d"
+    },
+    {
+      "name": "hsdahdjshdsj",
+      "email": "dksjdsjkd@wp.pl",
+      "password": "dsjdsjkds",
+      "id": "5a27eca5-ff13-4621-9c40-8e4371bcbc09"
+    },
+    {
+      "name": "hsdahdjshdsj",
+      "email": "dksjdsjkd@wp.pl",
+      "password": "dsjdsjkds",
+      "id": "fafbbe57-636b-4bca-bc8d-00ff741822a2"
+    },
+    {
+      "name": "hsdahdjshdsj",
+      "email": "dksjdsjkd@wp.pl",
+      "password": "dsjdsjkds",
+      "id": "386e9c4b-05b2-433f-bd05-29d45f931609"
+    },
+    {
+      "name": "hsdahdjshdsj",
+      "email": "dksjdsjkd@wp.pl",
+      "password": "dsjdsjkds",
+      "id": "255354e2-749c-4b21-b14a-be5a44c4013d"
+    },
+    {
+      "name": "hsdahdjshdsj",
+      "email": "dksjdsjkd@wp.pl",
+      "password": "dsjdsjkds",
+      "id": "cd483784-7fbd-4a56-ae53-ff15f0bfec6a"
+    },
+    {
+      "name": "hsdahdjshdsj",
+      "email": "dksjdsjkd@wp.pl",
+      "password": "dsjdsjkds",
+      "id": "df24d734-f9ba-4a71-8212-e1956396814f"
+    },
+    {
+      "name": "hsdahdjshdsj",
+      "email": "dksjdsjkd@wp.pl",
+      "password": "dsjdsjkds",
+      "id": "4e3ee8ee-6fd5-4e9c-9729-9e1d1e602903"
+    },
+    {
+      "name": "coscoscos",
+      "email": "djskdjskdsj@re.pl",
+      "password": "qwerty",
+      "id": "544da3fd-e619-442f-9ec6-1f5761abe5bb"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "1",
+      "title": "Go on a walk",
+      "description": "Aenean a neque quis nisl aliquam cursus ut hendrerit augue.",
+      "completed": true,
+      "userId": "1"
+    },
+    {
+      "id": "2",
+      "title": "Buy milk",
+      "description": "Morbi non sapien sit amet erat eleifend rhoncus.",
+      "completed": false,
+      "userId": "1"
+    },
+    {
+      "id": "3",
+      "title": "Email team for updates",
+      "description": "Cras ullamcorper neque at libero bibendum, auctor dictum ante lacinia.",
+      "completed": true,
+      "userId": "2"
+    },
+    {
+      "id": "0a203018-1e36-43c0-ae3e-5eba1ac456ee",
+      "title": "Title333",
+      "description": "Opis taska",
+      "completed": true,
+      "userId": "54"
+    }
+  ]
+}
